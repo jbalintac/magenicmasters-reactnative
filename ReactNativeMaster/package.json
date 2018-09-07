@@ -13,6 +13,7 @@
     "react": "16.4.1",
     "react-native": "^0.55.4",
     "react-native-drawer-layout-polyfill": "^2.0.0",
+    "react-native-sqlite-storage": "^3.3.6",
     "react-navigation": "^2.11.2"
   },
   "devDependencies": {
