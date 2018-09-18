@@ -12,6 +12,7 @@
     "babel-preset-react-native": "^4.0.0",
     "react": "16.4.1",
     "react-native": "^0.55.4",
+    "react-native-camera": "^1.2.0",
     "react-native-drawer-layout-polyfill": "^2.0.0",
     "react-native-sqlite-storage": "^3.3.6",
     "react-native-swiper": "^1.5.13",
