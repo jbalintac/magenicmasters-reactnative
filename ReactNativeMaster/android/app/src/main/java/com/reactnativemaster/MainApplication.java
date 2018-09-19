@@ -4,6 +4,7 @@ import android.app.Application;
 
 import com.facebook.react.ReactApplication;
 import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+import com.imagepicker.ImagePickerPackage;
 import org.reactnative.camera.RNCameraPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
@@ -30,6 +31,7 @@ public class MainApplication extends Application implements ReactApplication {
           new SQLitePluginPackage(),   // register SQLite Plugin here
           new MainReactPackage(),
             new ReactNativePushNotificationPackage(),
+            new ImagePickerPackage(),
             new RNCameraPackage()
       );
     }
